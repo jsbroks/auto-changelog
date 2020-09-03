@@ -1,0 +1,11 @@
+{
+  "name": "auto-changelog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jsbroks/auto-changelog.git",
+  "author": "Justin Brooks <jsbroks@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
